@@ -1,0 +1,13 @@
+---
+title: "Impossible Refuge: The Control and Constraint of Refugee Futures"
+collection: publications
+category: books
+teaser: impossiblerefuge.jpg
+permalink: /publication/2019-01-31-Impossible-Refuge
+excerpt: 'Impossible Refuge brings the perspectives of refugees into rapidly emerging dialogues about contemporary situations of mass forced migration, asking: what does it mean to be displaced?'
+venue: 'On Edge: Ethnographies and Theories of Threshold Phenomena'
+paperurl: 'https://www.routledge.com/Impossible-Refuge-The-Control-and-Constraint-of-Refugee-Futures/Ramsay/p/book/9780367229634'
+citation: 'Ramsay, Georgina (2019). &quot;Impossible Refuge: The Control and Constraint of Refugee Futures&quot;'
+---
+
+Impossible Refuge brings the perspectives of refugees into rapidly emerging dialogues about contemporary situations of mass forced migration, asking: what does it mean to be displaced? Based on multi-sited ethnographic research conducted with refugees from Central Africa living in situations of protracted asylum in Uganda and resettlement in Australia, the book provides a unique comparative analysis of global humanitarian systems and the experiences of refugees whose lives are interwoven with them. The book problematises the solutions that are currently in place to resolve the displacement of refugees, considering that since displacement cannot be reduced to a politico-legal problem but is an experience that resonates at an existential level, it cannot be assumed that politico-legal solutions to displacement automatically resolve what is, fundamentally, an existential state of being. Impossible Refuge therefore offers a new theoretical foundation through which to think about the experiences of refugees, as well as the systems in place to manage and resolve their displacement. The book argues that the refuge provided to refugees through international humanitarian systems is conditional: requiring that they conform to lifestyles that benefit the hegemonic future horizons of the societies that host and receive them. Impossible Refuge calls for new ways of approaching displacement that go beyond the exceptionality of refugee experience, to consider instead how the contestation and control of possible futures makes displacement a general condition of our time. As such, it will appeal to scholars across the social sciences with interests in migration and refugees, humanitarianism and violence, sovereignty and citizenship, cosmology and temporality, and African studies, broadly.
