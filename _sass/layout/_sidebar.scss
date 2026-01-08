@@ -25,6 +25,10 @@
   }
 
   @include breakpoint($large) {
+    // The main content area: increases the padding on the left side.
+    // Default is a small value like 0.5em, 1.0em, or a Susy-calculated gutter.
+    // Increase this value to push the content to the right, widening the gutter.
+    padding-right: 2em !important;
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;

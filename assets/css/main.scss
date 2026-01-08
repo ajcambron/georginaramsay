@@ -7,7 +7,12 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-
+/* Custom CSS for Masthead Logo */
+.masthead-logo {
+  height: 1.5em; /* Adjust height based on your logo size preference */
+  vertical-align: middle; /* Align logo with the text baseline */
+  margin-right: 0.5em; /* Add a little space between logo and site title text */
+}
 @import
     "vendor/breakpoint/breakpoint",
 

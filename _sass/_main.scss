@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+/* 1. Define your new font stack(s) */
+$my-new-sans-serif: 'Noto Sans', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$my-new-serif: 'Cormorant', serif;
+
+/* 2. Override the theme's default font variables */
+// Main body text and navigation
+$global-font-family: $my-new-sans-serif;
+
+// Headings (H1, H2, etc.)
+$header-font-family: $my-new-sans-serif;
+
+// Captions, blockquotes, and certain other elements
+$caption-font-family: $my-new-serif;
+
+/* 3. Import the Minimal Mistakes/Academic Pages theme styles last */
+@import "minimal-mistakes";
